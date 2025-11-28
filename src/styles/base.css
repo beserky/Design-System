@@ -5,17 +5,64 @@
    line-height: 1.5;
    font-weight: 400;
 
-   /* Colors */
-   --first-color: ;
-   --first-color-alt: ;
+   /* Spacement 8px grid */
+   --space-128-pt: 8rem;
+   --space-120-pt: 7.5rem;
+   --space-104-pt: 6.5rem;
+   --space-96-pt: 6rem;
+   --space-88-pt: 5.5rem;
+   --space-80-pt: 5rem;
+   --space-72-pt: 4.5rem;
+   --space-64-pt: 4rem;
+   --space-56-pt: 3.5rem;
+   --space-48-pt: 3rem;
+   --space-40-pt: 2.5rem;
+   --space-32-pt: 2rem;
+   --space-24-pt: 1.5rem;
+   --space-16-pt: 1rem;
+   --space-8-pt: .5rem;
+   --space-4-pt: .25rem;
 
-   /* Padding */
-   --padding-xl: 1rem;
-   --padding-xxl: 2rem;
+   /* Font Size  4px grid*/
+   --fs-64-pt: 4rem;
+   --fs-60-pt: 3.75rem;
+   --fs-56-pt: 3.5rem;
+   --fs-52-pt: 3.25rem;
+   --fs-48-pt: 3rem;
+   --fs-44-pt: 2.75rem;
+   --fs-40-pt: 2.5rem;
+   --fs-36-pt: 2.25rem;
+   --fs-32-pt: 2rem;
+   --fs-28-pt: 1.75rem;
+   --fs-24-pt: 1.5rem;
+   --fs-20-pt: 1.25rem;
+   --fs-16-pt: 1rem;
+   --fs-12-pt: .75rem;
+   --fs-8-pt: .25rem;
 
-   /* Margin */
-   --margin-xl: ;
-   --margin-xxl: ;
+   /* Line Height scala modular 1.25 */
+   --lh-64-pt: 5rem;
+   --lh-60-pt: 4.6875rem;
+   --lh-56-pt: 4.375rem;
+   --lh-52-pt: 4.0625rem;
+   --lh-48-pt: 3.75rem;
+   --lh-44-pt: 3.4375rem;
+   --lh-40-pt: 3.125rem;
+   --lh-36-pt: 2.8125rem;
+   --lh-32-pt: 2.5rem;
+   --lh-28-pt: 2.1875rem;
+   --lh-24-pt: 1.875rem;
+   --lh-20-pt: 1.5625rem;
+   --lh-16-pt: 1.25rem;
+   --lh-12-pt: 0.9375rem;
+   --lh-8-pt: 0.625rem;
+
+   /* Font Weight */
+   --fw-bold: 700;
+   --fw-semibold: 600;
+   --fw-medium: 500;
+   --fw-regular: 400;
+   --fw-light: 300;
 }
 
 *,
