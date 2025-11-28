@@ -1,0 +1,47 @@
+@import url(./button.css);
+
+:root {
+   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+   line-height: 1.5;
+   font-weight: 400;
+
+   /* Colors */
+   --first-color: ;
+   --first-color-alt: ;
+
+   /* Padding */
+   --padding-xl: 1rem;
+   --padding-xxl: 2rem;
+
+   /* Margin */
+   --margin-xl: ;
+   --margin-xxl: ;
+}
+
+*,
+::after,
+::before {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+a {
+   text-decoration: none;
+}
+
+ul {
+   list-style: none;
+}
+
+button,
+input {
+   outline: none;
+   border: none;
+}
+
+img {
+   max-width: 100%;
+   height: auto;
+   object-fit: cover;
+}
