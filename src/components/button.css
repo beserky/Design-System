@@ -1,0 +1,13 @@
+.button {
+   display: inline-block;
+   padding: var(--space-16-pt) var(--space-24-pt);
+   background-color: #000;
+   color: #fff;
+   border-radius: 5rem;
+   transition: background .3s;
+   font-size: var(--fs-16-pt);
+}
+
+.button:hover {
+   background-color: #000000c0;
+}
