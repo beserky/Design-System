@@ -1,0 +1,38 @@
+:root {
+  /* COLORS */
+  --clr-primary: ;
+  --clr-secundary: ;
+
+  --clr-white: #fff;
+
+  --clr-dark: ;
+  --clr-light: ;
+
+  --clr-text: ;
+  --clr-title: ;
+
+  /* FONTS */
+  --ff-heading: "Montserrat", sans-serif;
+  --ff-display: ;
+  --ff-title: ;
+  --ff-primary: ;
+  
+  --ff-body: "Inter", sans-serif;
+  --ff-secundary: ;
+  --font-text: ;
+  --font-paragraph: ;
+
+  --fs-display: clamp(64px, 8vw, 96px);
+  --fs-h1: clamp(40px, 5vw, 64px);
+  --fs-h2: clamp(32px, 4vw, 52px);
+  --fs-h3: clamp(24px, 3.5vw, 44px);
+  --fs-h4: clamp(22px, 3vw, 36px);
+  --fs-h5: clamp(20px, 2.5vw, 28px);
+  --fs-h6: clamp(18px, 2vw, 24px);
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+  --fw-extrabold: 800;
+}
